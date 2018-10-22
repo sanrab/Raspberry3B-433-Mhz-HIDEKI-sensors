@@ -10,4 +10,13 @@ SOFTWARE
 - rtl_433 (https://github.com/merbanan/rtl_433)
 - Domoticz (https://www.domoticz.com)
 
+HARDWARE
+- RTL-SDR dongle NooElec R820T
+- wireless (433 MHz) HIDEKI sensor TS21 for temperature and humidity
+- wireless (433 MHz) HIDEKI sensor TS805 for wind and temperature
+- wireless (433 MHz) HIDEKI sensor TS906 for rain
+- BMP180 sensor for temperature and pressure
+
+
+
 
