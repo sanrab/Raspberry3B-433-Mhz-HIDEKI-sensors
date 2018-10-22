@@ -5,10 +5,9 @@ humidity, TS805 for wind, TS906 for rain), BMP180 sensor for internal temperatur
 using Domoticz software.
 
 SOFTWARE
-- Raspbian Lite
-- rtl-sdr
-- rtl_433
-- Domoticz
-
+- Raspbian Stretch Lite (https://www.raspberrypi.org/downloads/raspbian/)
+- rtl-sdr (https://gist.github.com/floehopper/99a0c8931f9d779b0998)
+- rtl_433 (https://github.com/merbanan/rtl_433)
+- Domoticz (https://www.domoticz.com)
 
 
