@@ -19,6 +19,7 @@ HARDWARE
 - BMP180 sensor for temperature and pressure
 
 Parameters for rtl_433 : -p 61 -R 42
+
 -p 61 = correction for rtl-sdr tuner frequency offset error (determined with rtl_test -p)
 -R 42 = HIDEKI TS04 Temperature, Humidity, Wind and Rain Sensor
 
